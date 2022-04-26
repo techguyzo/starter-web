@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 Add more text
 More text 2
+Text extra
 
 ## Introduction
 
