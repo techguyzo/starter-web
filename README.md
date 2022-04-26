@@ -18,4 +18,4 @@ Fork repo
 How to do it
 
 Sample website with plenty of files for demos
-Copyright 2022 Git training
+Copyright 2022 Git training. All rights reserved
