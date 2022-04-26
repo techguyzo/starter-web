@@ -12,6 +12,7 @@ Some intro
 
 ## How to contribute
 
+Fork repo
 How to do it
 
 Sample website with plenty of files for demos
